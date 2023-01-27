@@ -1,2 +1,4 @@
 This is File A
-zafda
+zafdaGit git status
+
+This is the first change
